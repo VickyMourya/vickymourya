@@ -1,4 +1,4 @@
-
+![logo](https://github.com/VickyMourya/vickymourya/blob/main/Black%20and%20White%20Bold%20Trade%20and%20Investments%20Youtube%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Vicky Mourya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
